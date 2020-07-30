@@ -2,21 +2,19 @@
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
-Time spent: **5** hours spent in total
+
 
 ## User Stories
 
-The following **required** functionality is completed:
+User can compose a tweet.
+User can favorite a tweet.
+User can retweet a tweet. 
 
-- [X] User can compose a tweet. (4pts)
-- [X] User can favorite a tweet. (4pts)
-- [X] User can retweet a tweet. (2pts)
+The following features are planned to be added:
 
-The following **bonus** features are implemented:
-
-- [ ] When composing a tweet, user sees a countdown for the number of characters remaining for the tweet (out of 140) (2pts)
-- [ ] User can view their profile in a profile tab. (3pts)
-- [ ] User sees embedded images in tweet if available. (3pts)
+- [ ] When composing a tweet, user sees a countdown for the number of characters remaining for the tweet 
+- [ ] User can view their profile in a profile tab.
+- [ ] User sees embedded images in tweet if available. 
 
 ## Video Walkthrough
 
